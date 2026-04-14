@@ -1,3 +1,6 @@
 The following Library structure is displayed as such:
 project/mylib/mypkg.vhd
-project/src/top.vhd
+etc in reusable code files.
+
+project/src/pkgApplication.vhd 
+etc in sources.
